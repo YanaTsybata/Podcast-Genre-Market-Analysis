@@ -130,7 +130,7 @@ The norm differs a lot: 23.6 minutes in Kids & Family, 61.2 in Comedy, 65.9 in S
 
 ## Technical Details
 
-- SQL queries: [sql/](sql/) folder, with comments.
+- SQL queries (Google BigQuery): [sql/](sql/) folder, one file in three parts: load checks, table cleaning and analysis queries (Q1–Q5), with results in comments.
 - Visualizations: [images/](images/) folder, Tableau Public charts exported as PNG.
 - Data collection scripts: [scripts/](scripts/) folder (`itunes_fetch.py`, `itunes_episodes_fetch.py`).
 - Source data: [data/](data/) folder (`itunes_podcasts.csv`, `itunes_episodes.csv`).
